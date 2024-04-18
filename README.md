@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+Name:R.Sabarinath 
+Register No:212223100048
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
